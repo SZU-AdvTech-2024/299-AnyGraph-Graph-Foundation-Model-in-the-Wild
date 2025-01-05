@@ -1,0 +1,6 @@
+@article{REPO299,
+    author = "Xia, Lianghao and Huang, Chao",
+    journal = "arXiv preprint arXiv:2408.10700",
+    title = "{AnyGraph: Graph Foundation Model in the Wild}",
+    year = "2024"
+}
